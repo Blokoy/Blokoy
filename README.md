@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="banner-minimal.svg" alt="blokoy" width="600">
+
 **John Ray Inocencio · Blokoy · _Quality over quantity_**
 
 ![followers](https://img.shields.io/github/followers/JohnRayIno?style=flat&color=555)
@@ -21,12 +23,13 @@ const blokoy = {
   location:   "Negros Occidental, Philippines",
   stacks:     ["Python", "C", "Linux", "MySQL", "PHP"],
   philosophy: "Quality over quantity. A few good repos, a few real friends.",
-  currently:  " Working on [Hikari]",
+  currently:  "Working on Hikari",
   quirk:      "A little bit of everything beats a whole lot of nothing",
 };
 ```
 
 ---
+
 ## $ ls -la ~/projects
 
 ### 🌐 Web Projects
