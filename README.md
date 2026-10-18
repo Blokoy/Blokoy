@@ -21,19 +21,15 @@ const blokoy = {
   location:   "Negros Occidental, Philippines",
   stacks:     ["Python", "C", "Linux", "MySQL", "PHP"],
   philosophy: "Quality over quantity. A few good repos, a few real friends.",
-  currently:  "Fate Tracker",
+  currently:  " Working on [Hikari](https://github.com/JohnRayIno/Hikari)",
   quirk:      "A little bit of everything beats a whole lot of nothing",
 };
 ```
 
 ---
-
 ## $ ls -la ~/projects
 
-<details>
-<summary>🌐 Web Projects</summary>
+### 🌐 Web Projects
 
 - [Fate-tracker](https://github.com/JohnRayIno/FGO-tracker) – Fate/Grand Order Servant Material & Ascension tracker
 - [Hikari](https://github.com/JohnRayIno/Hikari) – WIP Personalized Language Learning Site
-
-</details>
