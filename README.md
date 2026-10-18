@@ -21,7 +21,7 @@ const blokoy = {
   location:   "Negros Occidental, Philippines",
   stacks:     ["Python", "C", "Linux", "MySQL", "PHP"],
   philosophy: "Quality over quantity. A few good repos, a few real friends.",
-  currently:  " Working on [Hikari](https://github.com/JohnRayIno/Hikari)",
+  currently:  " Working on [Hikari]",
   quirk:      "A little bit of everything beats a whole lot of nothing",
 };
 ```
